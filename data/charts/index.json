@@ -2,7 +2,7 @@
  {
   "chart_id": "global",
   "label": "Global top tracks",
-  "fetched_at": "2026-11-03T01:39:15+00:00",
+  "fetched_at": "2026-11-03T23:58:32+00:00",
   "count": 50
  },
  {
@@ -20,7 +20,7 @@
  {
   "chart_id": "united-states",
   "label": "Top tracks: United States",
-  "fetched_at": "2026-11-03T01:39:15+00:00",
+  "fetched_at": "2026-11-03T23:58:32+00:00",
   "count": 50
  }
 ]

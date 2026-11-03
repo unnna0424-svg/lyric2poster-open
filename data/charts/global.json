@@ -2,357 +2,357 @@
  "chart_id": "global",
  "label": "Global top tracks",
  "source": "lastfm",
- "fetched_at": "2026-11-03T01:39:15+00:00",
+ "fetched_at": "2026-11-03T23:58:32+00:00",
  "tracks": [
   {
    "rank": 1,
    "title": "Nicole Kidman",
    "artist": "ADÉLA",
-   "listeners": 295841,
+   "listeners": 298139,
    "url": "https://www.last.fm/music/AD%C3%89LA/_/Nicole+Kidman"
   },
   {
    "rank": 2,
    "title": "expectations (feat. Chappell Roan)",
    "artist": "Olivia Rodrigo",
-   "listeners": 174495,
+   "listeners": 176820,
    "url": "https://www.last.fm/music/Olivia+Rodrigo/_/expectations+(feat.+Chappell+Roan)"
   },
   {
    "rank": 3,
    "title": "Ain't In LA",
    "artist": "ADÉLA",
-   "listeners": 308967,
+   "listeners": 310441,
    "url": "https://www.last.fm/music/AD%C3%89LA/_/Ain%27t+In+LA"
   },
   {
    "rank": 4,
    "title": "the cure",
    "artist": "Olivia Rodrigo",
-   "listeners": 911638,
+   "listeners": 912617,
    "url": "https://www.last.fm/music/Olivia+Rodrigo/_/the+cure"
   },
   {
    "rank": 5,
    "title": "Housewife",
    "artist": "Tate McRae",
-   "listeners": 114045,
+   "listeners": 116628,
    "url": "https://www.last.fm/music/Tate+McRae/_/Housewife"
   },
   {
    "rank": 6,
    "title": "stupid song",
    "artist": "Olivia Rodrigo",
-   "listeners": 787049,
+   "listeners": 787850,
    "url": "https://www.last.fm/music/Olivia+Rodrigo/_/stupid+song"
   },
   {
    "rank": 7,
    "title": "Earrings",
    "artist": "Malcolm Todd",
-   "listeners": 1230327,
+   "listeners": 1231265,
    "url": "https://www.last.fm/music/Malcolm+Todd/_/Earrings"
   },
   {
    "rank": 8,
    "title": "expectations",
    "artist": "Olivia Rodrigo",
-   "listeners": 630865,
+   "listeners": 631861,
    "url": "https://www.last.fm/music/Olivia+Rodrigo/_/expectations"
   },
   {
    "rank": 9,
    "title": "Stateside + Zara Larsson",
    "artist": "PinkPantheress",
-   "listeners": 1473434,
+   "listeners": 1474080,
    "url": "https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson"
   },
   {
    "rank": 10,
    "title": "maggots for brains",
    "artist": "Olivia Rodrigo",
-   "listeners": 635345,
+   "listeners": 635905,
    "url": "https://www.last.fm/music/Olivia+Rodrigo/_/maggots+for+brains"
   },
   {
    "rank": 11,
    "title": "drop dead",
    "artist": "Olivia Rodrigo",
-   "listeners": 952132,
+   "listeners": 952685,
    "url": "https://www.last.fm/music/Olivia+Rodrigo/_/drop+dead"
   },
   {
    "rank": 12,
    "title": "Duvet",
    "artist": "bôa",
-   "listeners": 2168224,
+   "listeners": 2169230,
    "url": "https://www.last.fm/music/b%C3%B4a/_/Duvet"
   },
   {
    "rank": 13,
    "title": "Creep",
    "artist": "Radiohead",
-   "listeners": 4260346,
+   "listeners": 4261169,
    "url": "https://www.last.fm/music/Radiohead/_/Creep"
   },
   {
    "rank": 14,
    "title": "Melatonin",
    "artist": "Tinashe",
-   "listeners": 133311,
+   "listeners": 134105,
    "url": "https://www.last.fm/music/Tinashe/_/Melatonin"
   },
   {
    "rank": 15,
    "title": "505",
    "artist": "Arctic Monkeys",
-   "listeners": 3194916,
+   "listeners": 3195803,
    "url": "https://www.last.fm/music/Arctic+Monkeys/_/505"
   },
   {
    "rank": 16,
    "title": "You’re Under Arrest",
    "artist": "ILLIT",
-   "listeners": 49804,
+   "listeners": 53519,
    "url": "https://www.last.fm/music/ILLIT/_/You%E2%80%99re+Under+Arrest"
   },
   {
    "rank": 17,
-   "title": "Lovers Rock",
-   "artist": "TV Girl",
-   "listeners": 2332661,
-   "url": "https://www.last.fm/music/TV+Girl/_/Lovers+Rock"
-  },
-  {
-   "rank": 18,
    "title": "hate that i made you love me",
    "artist": "Ariana Grande",
-   "listeners": 808091,
+   "listeners": 808627,
    "url": "https://www.last.fm/music/Ariana+Grande/_/hate+that+i+made+you+love+me"
   },
   {
-   "rank": 19,
+   "rank": 18,
    "title": "Sweater Weather",
    "artist": "The Neighbourhood",
-   "listeners": 3136776,
+   "listeners": 3137638,
    "url": "https://www.last.fm/music/The+Neighbourhood/_/Sweater+Weather"
   },
   {
-   "rank": 20,
-   "title": "brand new chanel$",
-   "artist": "Slayyyter",
-   "listeners": 155627,
-   "url": "https://www.last.fm/music/Slayyyter/_/brand+new+chanel$"
+   "rank": 19,
+   "title": "Lovers Rock",
+   "artist": "TV Girl",
+   "listeners": 2333378,
+   "url": "https://www.last.fm/music/TV+Girl/_/Lovers+Rock"
   },
   {
-   "rank": 21,
+   "rank": 20,
    "title": "Let Down",
    "artist": "Radiohead",
-   "listeners": 2668896,
+   "listeners": 2669620,
    "url": "https://www.last.fm/music/Radiohead/_/Let+Down"
   },
   {
-   "rank": 22,
+   "rank": 21,
    "title": "D>E>A>T>H>M>E>T>A>L",
    "artist": "Panchiko",
-   "listeners": 987968,
+   "listeners": 988819,
    "url": "https://www.last.fm/music/Panchiko/_/D%3EE%3EA%3ET%3EH%3EM%3EE%3ET%3EA%3EL"
   },
   {
+   "rank": 22,
+   "title": "brand new chanel$",
+   "artist": "Slayyyter",
+   "listeners": 156089,
+   "url": "https://www.last.fm/music/Slayyyter/_/brand+new+chanel$"
+  },
+  {
    "rank": 23,
-   "title": "Bags",
-   "artist": "Clairo",
-   "listeners": 1691377,
-   "url": "https://www.last.fm/music/Clairo/_/Bags"
+   "title": "honeybee",
+   "artist": "Olivia Rodrigo",
+   "listeners": 695740,
+   "url": "https://www.last.fm/music/Olivia+Rodrigo/_/honeybee"
   },
   {
    "rank": 24,
-   "title": "honeybee",
-   "artist": "Olivia Rodrigo",
-   "listeners": 695086,
-   "url": "https://www.last.fm/music/Olivia+Rodrigo/_/honeybee"
+   "title": "Bags",
+   "artist": "Clairo",
+   "listeners": 1691865,
+   "url": "https://www.last.fm/music/Clairo/_/Bags"
   },
   {
    "rank": 25,
    "title": "Loser",
    "artist": "Tame Impala",
-   "listeners": 708947,
+   "listeners": 709850,
    "url": "https://www.last.fm/music/Tame+Impala/_/Loser"
   },
   {
    "rank": 26,
    "title": "Oh Yeah?",
    "artist": "Steve Lacy",
-   "listeners": 309555,
+   "listeners": 310649,
    "url": "https://www.last.fm/music/Steve+Lacy/_/Oh+Yeah%3F"
   },
   {
    "rank": 27,
-   "title": "Mr. Brightside",
-   "artist": "The Killers",
-   "listeners": 3851747,
-   "url": "https://www.last.fm/music/The+Killers/_/Mr.+Brightside"
+   "title": "cigarette smoke",
+   "artist": "Olivia Rodrigo",
+   "listeners": 513601,
+   "url": "https://www.last.fm/music/Olivia+Rodrigo/_/cigarette+smoke"
   },
   {
    "rank": 28,
-   "title": "cigarette smoke",
-   "artist": "Olivia Rodrigo",
-   "listeners": 512676,
-   "url": "https://www.last.fm/music/Olivia+Rodrigo/_/cigarette+smoke"
+   "title": "Mr. Brightside",
+   "artist": "The Killers",
+   "listeners": 3852348,
+   "url": "https://www.last.fm/music/The+Killers/_/Mr.+Brightside"
   },
   {
    "rank": 29,
    "title": "The Less I Know the Better",
    "artist": "Tame Impala",
-   "listeners": 2942067,
+   "listeners": 2942818,
    "url": "https://www.last.fm/music/Tame+Impala/_/The+Less+I+Know+the+Better"
   },
   {
    "rank": 30,
-   "title": "Fame Is a Gun",
-   "artist": "Addison Rae",
-   "listeners": 1208790,
-   "url": "https://www.last.fm/music/Addison+Rae/_/Fame+Is+a+Gun"
-  },
-  {
-   "rank": 31,
-   "title": "KGB",
-   "artist": "ADÉLA",
-   "listeners": 339193,
-   "url": "https://www.last.fm/music/AD%C3%89LA/_/KGB"
-  },
-  {
-   "rank": 32,
-   "title": "Bring Me to Life",
-   "artist": "Evanescence",
-   "listeners": 3025896,
-   "url": "https://www.last.fm/music/Evanescence/_/Bring+Me+to+Life"
-  },
-  {
-   "rank": 33,
-   "title": "u + me = <3",
-   "artist": "Olivia Rodrigo",
-   "listeners": 607735,
-   "url": "https://www.last.fm/music/Olivia+Rodrigo/_/u+%252B+me+=+%3C3"
-  },
-  {
-   "rank": 34,
-   "title": "Lover, You Should've Come Over",
-   "artist": "Jeff Buckley",
-   "listeners": 1784448,
-   "url": "https://www.last.fm/music/Jeff+Buckley/_/Lover,+You+Should%27ve+Come+Over"
-  },
-  {
-   "rank": 35,
    "title": "Sports car",
    "artist": "Tate McRae",
-   "listeners": 1018465,
+   "listeners": 1019166,
    "url": "https://www.last.fm/music/Tate+McRae/_/Sports+car"
   },
   {
-   "rank": 36,
+   "rank": 31,
+   "title": "Lover, You Should've Come Over",
+   "artist": "Jeff Buckley",
+   "listeners": 1785143,
+   "url": "https://www.last.fm/music/Jeff+Buckley/_/Lover,+You+Should%27ve+Come+Over"
+  },
+  {
+   "rank": 32,
    "title": "Stop the Wedding!",
    "artist": "Ashe",
-   "listeners": 107293,
+   "listeners": 109318,
    "url": "https://www.last.fm/music/Ashe/_/Stop+the+Wedding%21"
   },
   {
-   "rank": 37,
-   "title": "my way",
-   "artist": "Olivia Rodrigo",
-   "listeners": 619113,
-   "url": "https://www.last.fm/music/Olivia+Rodrigo/_/my+way"
+   "rank": 33,
+   "title": "Bring Me to Life",
+   "artist": "Evanescence",
+   "listeners": 3026741,
+   "url": "https://www.last.fm/music/Evanescence/_/Bring+Me+to+Life"
   },
   {
-   "rank": 38,
-   "title": "When the Sun Hits",
-   "artist": "Slowdive",
-   "listeners": 1683362,
-   "url": "https://www.last.fm/music/Slowdive/_/When+the+Sun+Hits"
-  },
-  {
-   "rank": 39,
+   "rank": 34,
    "title": "Do I Wanna Know?",
    "artist": "Arctic Monkeys",
-   "listeners": 3029619,
+   "listeners": 3030449,
    "url": "https://www.last.fm/music/Arctic+Monkeys/_/Do+I+Wanna+Know%3F"
   },
   {
-   "rank": 40,
+   "rank": 35,
+   "title": "u + me = <3",
+   "artist": "Olivia Rodrigo",
+   "listeners": 608156,
+   "url": "https://www.last.fm/music/Olivia+Rodrigo/_/u+%252B+me+=+%3C3"
+  },
+  {
+   "rank": 36,
+   "title": "KGB",
+   "artist": "ADÉLA",
+   "listeners": 339865,
+   "url": "https://www.last.fm/music/AD%C3%89LA/_/KGB"
+  },
+  {
+   "rank": 37,
+   "title": "When the Sun Hits",
+   "artist": "Slowdive",
+   "listeners": 1684065,
+   "url": "https://www.last.fm/music/Slowdive/_/When+the+Sun+Hits"
+  },
+  {
+   "rank": 38,
    "title": "All I Need",
    "artist": "Radiohead",
-   "listeners": 2584938,
+   "listeners": 2585651,
    "url": "https://www.last.fm/music/Radiohead/_/All+I+Need"
   },
   {
+   "rank": 39,
+   "title": "Fame Is a Gun",
+   "artist": "Addison Rae",
+   "listeners": 1209271,
+   "url": "https://www.last.fm/music/Addison+Rae/_/Fame+Is+a+Gun"
+  },
+  {
+   "rank": 40,
+   "title": "my way",
+   "artist": "Olivia Rodrigo",
+   "listeners": 619538,
+   "url": "https://www.last.fm/music/Olivia+Rodrigo/_/my+way"
+  },
+  {
    "rank": 41,
-   "title": "Good Luck, Babe!",
-   "artist": "Chappell Roan",
-   "listeners": 2191671,
-   "url": "https://www.last.fm/music/Chappell+Roan/_/Good+Luck,+Babe%21"
-  },
-  {
-   "rank": 42,
-   "title": "Girl Like Me",
-   "artist": "PinkPantheress",
-   "listeners": 892881,
-   "url": "https://www.last.fm/music/PinkPantheress/_/Girl+Like+Me"
-  },
-  {
-   "rank": 43,
    "title": "Everlong",
    "artist": "Foo Fighters",
-   "listeners": 3261012,
+   "listeners": 3261774,
    "url": "https://www.last.fm/music/Foo+Fighters/_/Everlong"
   },
   {
-   "rank": 44,
-   "title": "Sienna",
-   "artist": "The Marías",
-   "listeners": 1337209,
-   "url": "https://www.last.fm/music/The+Mar%C3%ADas/_/Sienna"
-  },
-  {
-   "rank": 45,
+   "rank": 42,
    "title": "See You Again (feat. Kali Uchis)",
    "artist": "Tyler, The Creator",
-   "listeners": 2703689,
+   "listeners": 2704413,
    "url": "https://www.last.fm/music/Tyler,+The+Creator/_/See+You+Again+(feat.+Kali+Uchis)"
   },
   {
-   "rank": 46,
+   "rank": 43,
+   "title": "Sienna",
+   "artist": "The Marías",
+   "listeners": 1337810,
+   "url": "https://www.last.fm/music/The+Mar%C3%ADas/_/Sienna"
+  },
+  {
+   "rank": 44,
+   "title": "Girl Like Me",
+   "artist": "PinkPantheress",
+   "listeners": 893363,
+   "url": "https://www.last.fm/music/PinkPantheress/_/Girl+Like+Me"
+  },
+  {
+   "rank": 45,
    "title": "No One Noticed",
    "artist": "The Marías",
-   "listeners": 1739512,
+   "listeners": 1740165,
    "url": "https://www.last.fm/music/The+Mar%C3%ADas/_/No+One+Noticed"
+  },
+  {
+   "rank": 46,
+   "title": "Good Luck, Babe!",
+   "artist": "Chappell Roan",
+   "listeners": 2192103,
+   "url": "https://www.last.fm/music/Chappell+Roan/_/Good+Luck,+Babe%21"
   },
   {
    "rank": 47,
    "title": "purple",
    "artist": "Olivia Rodrigo",
-   "listeners": 548094,
+   "listeners": 548556,
    "url": "https://www.last.fm/music/Olivia+Rodrigo/_/purple"
   },
   {
    "rank": 48,
-   "title": "The Only Exception",
-   "artist": "Paramore",
-   "listeners": 2079073,
-   "url": "https://www.last.fm/music/Paramore/_/The+Only+Exception"
+   "title": "petal",
+   "artist": "Ariana Grande",
+   "listeners": 204593,
+   "url": "https://www.last.fm/music/Ariana+Grande/_/petal"
   },
   {
    "rank": 49,
-   "title": "Thriller",
-   "artist": "Michael Jackson",
-   "listeners": 2474352,
-   "url": "https://www.last.fm/music/Michael+Jackson/_/Thriller"
+   "title": "The Only Exception",
+   "artist": "Paramore",
+   "listeners": 2079786,
+   "url": "https://www.last.fm/music/Paramore/_/The+Only+Exception"
   },
   {
    "rank": 50,
-   "title": "petal",
-   "artist": "Ariana Grande",
-   "listeners": 203838,
-   "url": "https://www.last.fm/music/Ariana+Grande/_/petal"
+   "title": "Thriller",
+   "artist": "Michael Jackson",
+   "listeners": 2475037,
+   "url": "https://www.last.fm/music/Michael+Jackson/_/Thriller"
   }
  ]
 }
