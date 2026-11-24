@@ -2,356 +2,356 @@
  "chart_id": "united-states",
  "label": "Top tracks: United States",
  "source": "lastfm",
- "fetched_at": "2026-11-23T00:17:49+00:00",
+ "fetched_at": "2026-11-24T04:17:22+00:00",
  "tracks": [
   {
    "rank": 1,
    "title": "the cure",
    "artist": "Olivia Rodrigo",
-   "listeners": 20139,
+   "listeners": 20303,
    "url": "https://www.last.fm/music/Olivia+Rodrigo/_/the+cure"
   },
   {
    "rank": 2,
    "title": "Earrings",
    "artist": "Malcolm Todd",
-   "listeners": 17716,
+   "listeners": 17805,
    "url": "https://www.last.fm/music/Malcolm+Todd/_/Earrings"
   },
   {
    "rank": 3,
    "title": "D>E>A>T>H>M>E>T>A>L",
    "artist": "Panchiko",
-   "listeners": 17687,
+   "listeners": 17662,
    "url": "https://www.last.fm/music/Panchiko/_/D%3EE%3EA%3ET%3EH%3EM%3EE%3ET%3EA%3EL"
   },
   {
    "rank": 4,
    "title": "stupid song",
    "artist": "Olivia Rodrigo",
-   "listeners": 17388,
+   "listeners": 17614,
    "url": "https://www.last.fm/music/Olivia+Rodrigo/_/stupid+song"
   },
   {
    "rank": 5,
    "title": "Nicole Kidman",
    "artist": "ADÉLA",
-   "listeners": 17085,
+   "listeners": 17078,
    "url": "https://www.last.fm/music/AD%C3%89LA/_/Nicole+Kidman"
   },
   {
    "rank": 6,
-   "title": "Duvet",
-   "artist": "bôa",
-   "listeners": 15751,
-   "url": "https://www.last.fm/music/b%C3%B4a/_/Duvet"
-  },
-  {
-   "rank": 7,
    "title": "505",
    "artist": "Arctic Monkeys",
-   "listeners": 15631,
+   "listeners": 15621,
    "url": "https://www.last.fm/music/Arctic+Monkeys/_/505"
   },
   {
-   "rank": 8,
-   "title": "Creep",
-   "artist": "Radiohead",
-   "listeners": 14799,
-   "url": "https://www.last.fm/music/Radiohead/_/Creep"
+   "rank": 7,
+   "title": "Duvet",
+   "artist": "bôa",
+   "listeners": 15180,
+   "url": "https://www.last.fm/music/b%C3%B4a/_/Duvet"
   },
   {
-   "rank": 9,
+   "rank": 8,
    "title": "nothing",
    "artist": "Steve Lacy",
-   "listeners": 14732,
+   "listeners": 14970,
    "url": "https://www.last.fm/music/Steve+Lacy/_/nothing"
   },
   {
-   "rank": 10,
+   "rank": 9,
    "title": "Music",
    "artist": "underscores",
-   "listeners": 14508,
+   "listeners": 14830,
    "url": "https://www.last.fm/music/underscores/_/Music"
+  },
+  {
+   "rank": 10,
+   "title": "Creep",
+   "artist": "Radiohead",
+   "listeners": 14636,
+   "url": "https://www.last.fm/music/Radiohead/_/Creep"
   },
   {
    "rank": 11,
    "title": "Everlong",
    "artist": "Foo Fighters",
-   "listeners": 14273,
+   "listeners": 14338,
    "url": "https://www.last.fm/music/Foo+Fighters/_/Everlong"
   },
   {
    "rank": 12,
-   "title": "Lovers Rock",
-   "artist": "TV Girl",
-   "listeners": 14188,
-   "url": "https://www.last.fm/music/TV+Girl/_/Lovers+Rock"
-  },
-  {
-   "rank": 13,
-   "title": "Mr. Brightside",
-   "artist": "The Killers",
-   "listeners": 14136,
-   "url": "https://www.last.fm/music/The+Killers/_/Mr.+Brightside"
-  },
-  {
-   "rank": 14,
    "title": "maggots for brains",
    "artist": "Olivia Rodrigo",
-   "listeners": 14001,
+   "listeners": 14129,
    "url": "https://www.last.fm/music/Olivia+Rodrigo/_/maggots+for+brains"
   },
   {
-   "rank": 15,
+   "rank": 13,
+   "title": "Lovers Rock",
+   "artist": "TV Girl",
+   "listeners": 14092,
+   "url": "https://www.last.fm/music/TV+Girl/_/Lovers+Rock"
+  },
+  {
+   "rank": 14,
    "title": "Melatonin",
    "artist": "Tinashe",
-   "listeners": 13930,
+   "listeners": 14082,
    "url": "https://www.last.fm/music/Tinashe/_/Melatonin"
+  },
+  {
+   "rank": 15,
+   "title": "Mr. Brightside",
+   "artist": "The Killers",
+   "listeners": 13949,
+   "url": "https://www.last.fm/music/The+Killers/_/Mr.+Brightside"
   },
   {
    "rank": 16,
    "title": "Let Down",
    "artist": "Radiohead",
-   "listeners": 13881,
+   "listeners": 13880,
    "url": "https://www.last.fm/music/Radiohead/_/Let+Down"
   },
   {
    "rank": 17,
    "title": "The Peace",
    "artist": "underscores",
-   "listeners": 13684,
+   "listeners": 13856,
    "url": "https://www.last.fm/music/underscores/_/The+Peace"
   },
   {
    "rank": 18,
    "title": "Lover, You Should've Come Over",
    "artist": "Jeff Buckley",
-   "listeners": 13568,
+   "listeners": 13657,
    "url": "https://www.last.fm/music/Jeff+Buckley/_/Lover,+You+Should%27ve+Come+Over"
   },
   {
    "rank": 19,
    "title": "Do It",
    "artist": "underscores",
-   "listeners": 13454,
+   "listeners": 13646,
    "url": "https://www.last.fm/music/underscores/_/Do+It"
   },
   {
    "rank": 20,
-   "title": "Bags",
-   "artist": "Clairo",
-   "listeners": 13384,
-   "url": "https://www.last.fm/music/Clairo/_/Bags"
-  },
-  {
-   "rank": 21,
-   "title": "expectations",
-   "artist": "Olivia Rodrigo",
-   "listeners": 13295,
-   "url": "https://www.last.fm/music/Olivia+Rodrigo/_/expectations"
-  },
-  {
-   "rank": 22,
    "title": "My Moon My Man",
    "artist": "Feist",
-   "listeners": 13073,
+   "listeners": 13474,
    "url": "https://www.last.fm/music/Feist/_/My+Moon+My+Man"
   },
   {
-   "rank": 23,
-   "title": "The Feeling",
-   "artist": "Steve Lacy",
-   "listeners": 12970,
-   "url": "https://www.last.fm/music/Steve+Lacy/_/The+Feeling"
+   "rank": 21,
+   "title": "Bags",
+   "artist": "Clairo",
+   "listeners": 13248,
+   "url": "https://www.last.fm/music/Clairo/_/Bags"
   },
   {
-   "rank": 24,
+   "rank": 22,
    "title": "Oh Yeah?",
    "artist": "Steve Lacy",
-   "listeners": 12932,
+   "listeners": 13147,
    "url": "https://www.last.fm/music/Steve+Lacy/_/Oh+Yeah%3F"
   },
   {
-   "rank": 25,
-   "title": "LES",
-   "artist": "Childish Gambino",
-   "listeners": 12816,
-   "url": "https://www.last.fm/music/Childish+Gambino/_/LES"
+   "rank": 23,
+   "title": "expectations",
+   "artist": "Olivia Rodrigo",
+   "listeners": 13109,
+   "url": "https://www.last.fm/music/Olivia+Rodrigo/_/expectations"
   },
   {
-   "rank": 26,
+   "rank": 24,
+   "title": "The Feeling",
+   "artist": "Steve Lacy",
+   "listeners": 13098,
+   "url": "https://www.last.fm/music/Steve+Lacy/_/The+Feeling"
+  },
+  {
+   "rank": 25,
    "title": "Ain't In LA",
    "artist": "ADÉLA",
-   "listeners": 12660,
+   "listeners": 12687,
    "url": "https://www.last.fm/music/AD%C3%89LA/_/Ain%27t+In+LA"
   },
   {
-   "rank": 27,
+   "rank": 26,
    "title": "cigarette smoke",
    "artist": "Olivia Rodrigo",
-   "listeners": 12598,
+   "listeners": 12680,
    "url": "https://www.last.fm/music/Olivia+Rodrigo/_/cigarette+smoke"
   },
   {
+   "rank": 27,
+   "title": "LES",
+   "artist": "Childish Gambino",
+   "listeners": 12648,
+   "url": "https://www.last.fm/music/Childish+Gambino/_/LES"
+  },
+  {
    "rank": 28,
-   "title": "All I Need",
-   "artist": "Radiohead",
-   "listeners": 12596,
-   "url": "https://www.last.fm/music/Radiohead/_/All+I+Need"
+   "title": "drop dead",
+   "artist": "Olivia Rodrigo",
+   "listeners": 12574,
+   "url": "https://www.last.fm/music/Olivia+Rodrigo/_/drop+dead"
   },
   {
    "rank": 29,
-   "title": "drop dead",
-   "artist": "Olivia Rodrigo",
-   "listeners": 12549,
-   "url": "https://www.last.fm/music/Olivia+Rodrigo/_/drop+dead"
+   "title": "All I Need",
+   "artist": "Radiohead",
+   "listeners": 12417,
+   "url": "https://www.last.fm/music/Radiohead/_/All+I+Need"
   },
   {
    "rank": 30,
    "title": "No One Noticed",
    "artist": "The Marías",
-   "listeners": 12462,
+   "listeners": 12307,
    "url": "https://www.last.fm/music/The+Mar%C3%ADas/_/No+One+Noticed"
   },
   {
    "rank": 31,
    "title": "Stateside + Zara Larsson",
    "artist": "PinkPantheress",
-   "listeners": 12035,
+   "listeners": 12051,
    "url": "https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson"
   },
   {
    "rank": 32,
-   "title": "expectations (feat. Chappell Roan)",
-   "artist": "Olivia Rodrigo",
-   "listeners": 11885,
-   "url": "https://www.last.fm/music/Olivia+Rodrigo/_/expectations+(feat.+Chappell+Roan)"
+   "title": "brand new chanel$",
+   "artist": "Slayyyter",
+   "listeners": 11972,
+   "url": "https://www.last.fm/music/Slayyyter/_/brand+new+chanel$"
   },
   {
    "rank": 33,
    "title": "In My Room",
    "artist": "Julia Wolf",
-   "listeners": 11847,
+   "listeners": 11881,
    "url": "https://www.last.fm/music/Julia+Wolf/_/In+My+Room"
   },
   {
    "rank": 34,
-   "title": "Sweater Weather",
-   "artist": "The Neighbourhood",
-   "listeners": 11813,
-   "url": "https://www.last.fm/music/The+Neighbourhood/_/Sweater+Weather"
+   "title": "expectations (feat. Chappell Roan)",
+   "artist": "Olivia Rodrigo",
+   "listeners": 11873,
+   "url": "https://www.last.fm/music/Olivia+Rodrigo/_/expectations+(feat.+Chappell+Roan)"
   },
   {
    "rank": 35,
-   "title": "Sienna",
-   "artist": "The Marías",
-   "listeners": 11783,
-   "url": "https://www.last.fm/music/The+Mar%C3%ADas/_/Sienna"
+   "title": "Sweater Weather",
+   "artist": "The Neighbourhood",
+   "listeners": 11750,
+   "url": "https://www.last.fm/music/The+Neighbourhood/_/Sweater+Weather"
   },
   {
    "rank": 36,
-   "title": "brand new chanel$",
-   "artist": "Slayyyter",
-   "listeners": 11740,
-   "url": "https://www.last.fm/music/Slayyyter/_/brand+new+chanel$"
+   "title": "When the Sun Hits",
+   "artist": "Slowdive",
+   "listeners": 11714,
+   "url": "https://www.last.fm/music/Slowdive/_/When+the+Sun+Hits"
   },
   {
    "rank": 37,
-   "title": "When the Sun Hits",
-   "artist": "Slowdive",
-   "listeners": 11698,
-   "url": "https://www.last.fm/music/Slowdive/_/When+the+Sun+Hits"
+   "title": "Sienna",
+   "artist": "The Marías",
+   "listeners": 11644,
+   "url": "https://www.last.fm/music/The+Mar%C3%ADas/_/Sienna"
   },
   {
    "rank": 38,
    "title": "the perfect pair",
    "artist": "beabadoobee",
-   "listeners": 11360,
+   "listeners": 11377,
    "url": "https://www.last.fm/music/beabadoobee/_/the+perfect+pair"
   },
   {
    "rank": 39,
    "title": "The Less I Know the Better",
    "artist": "Tame Impala",
-   "listeners": 11199,
+   "listeners": 11169,
    "url": "https://www.last.fm/music/Tame+Impala/_/The+Less+I+Know+the+Better"
   },
   {
    "rank": 40,
    "title": "Flashing Lights",
    "artist": "Kanye West",
-   "listeners": 11137,
+   "listeners": 11082,
    "url": "https://www.last.fm/music/Kanye+West/_/Flashing+Lights"
   },
   {
    "rank": 41,
-   "title": "See You Again (feat. Kali Uchis)",
-   "artist": "Tyler, The Creator",
-   "listeners": 11091,
-   "url": "https://www.last.fm/music/Tyler,+The+Creator/_/See+You+Again+(feat.+Kali+Uchis)"
-  },
-  {
-   "rank": 42,
    "title": "Last Christmas",
    "artist": "Wham!",
-   "listeners": 11074,
+   "listeners": 11003,
    "url": "https://www.last.fm/music/Wham%21/_/Last+Christmas"
   },
   {
-   "rank": 43,
-   "title": "All I Wanted",
-   "artist": "Paramore",
-   "listeners": 10914,
-   "url": "https://www.last.fm/music/Paramore/_/All+I+Wanted"
-  },
-  {
-   "rank": 44,
+   "rank": 42,
    "title": "Still Into You",
    "artist": "Paramore",
-   "listeners": 10906,
+   "listeners": 10979,
    "url": "https://www.last.fm/music/Paramore/_/Still+Into+You"
   },
   {
+   "rank": 43,
+   "title": "See You Again (feat. Kali Uchis)",
+   "artist": "Tyler, The Creator",
+   "listeners": 10953,
+   "url": "https://www.last.fm/music/Tyler,+The+Creator/_/See+You+Again+(feat.+Kali+Uchis)"
+  },
+  {
+   "rank": 44,
+   "title": "All I Wanted",
+   "artist": "Paramore",
+   "listeners": 10858,
+   "url": "https://www.last.fm/music/Paramore/_/All+I+Wanted"
+  },
+  {
    "rank": 45,
-   "title": "Cherry Waves",
-   "artist": "Deftones",
-   "listeners": 10861,
-   "url": "https://www.last.fm/music/Deftones/_/Cherry+Waves"
+   "title": "Sweet Boy",
+   "artist": "Malcolm Todd",
+   "listeners": 10816,
+   "url": "https://www.last.fm/music/Malcolm+Todd/_/Sweet+Boy"
   },
   {
    "rank": 46,
    "title": "Heartbeat",
    "artist": "Childish Gambino",
-   "listeners": 10800,
+   "listeners": 10812,
    "url": "https://www.last.fm/music/Childish+Gambino/_/Heartbeat"
   },
   {
    "rank": 47,
-   "title": "Sweet Boy",
-   "artist": "Malcolm Todd",
-   "listeners": 10771,
-   "url": "https://www.last.fm/music/Malcolm+Todd/_/Sweet+Boy"
+   "title": "Cherry Waves",
+   "artist": "Deftones",
+   "listeners": 10724,
+   "url": "https://www.last.fm/music/Deftones/_/Cherry+Waves"
   },
   {
    "rank": 48,
-   "title": "Sextape",
-   "artist": "Deftones",
-   "listeners": 10758,
-   "url": "https://www.last.fm/music/Deftones/_/Sextape"
+   "title": "Girl Like Me",
+   "artist": "PinkPantheress",
+   "listeners": 10720,
+   "url": "https://www.last.fm/music/PinkPantheress/_/Girl+Like+Me"
   },
   {
    "rank": 49,
-   "title": "Girl Like Me",
-   "artist": "PinkPantheress",
-   "listeners": 10756,
-   "url": "https://www.last.fm/music/PinkPantheress/_/Girl+Like+Me"
+   "title": "The Only Exception",
+   "artist": "Paramore",
+   "listeners": 10652,
+   "url": "https://www.last.fm/music/Paramore/_/The+Only+Exception"
   },
   {
    "rank": 50,
    "title": "No Surprises",
    "artist": "Radiohead",
-   "listeners": 10661,
+   "listeners": 10647,
    "url": "https://www.last.fm/music/Radiohead/_/No+Surprises"
   }
  ]
